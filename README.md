@@ -49,6 +49,9 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://old.reddit.com/r/linuxhardware/comments/9tsx1m/whats_the_best_driver_for_realtek_wifi_in_linux/
 - https://old.reddit.com/r/linux/comments/38vwbf/the_state_of_wifi_drivers_just_bad_luck/
 
+## Links, other
+- https://www.amazon.de/gp/bestsellers/computers/430156031/
+
 ## Links, AVM
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
