@@ -49,6 +49,7 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://old.reddit.com/r/linux/comments/5p38ry/what_prevents_realtek_wireless_drivers_from_being/
 - https://old.reddit.com/r/linuxhardware/comments/9tsx1m/whats_the_best_driver_for_realtek_wifi_in_linux/
 - https://old.reddit.com/r/linux/comments/38vwbf/the_state_of_wifi_drivers_just_bad_luck/
+- https://old.reddit.com/r/linuxquestions/comments/qbcjn2/are_realtek_and_nvidia_the_only_brands_i_need_to/
 
 ## Other links
 - https://www.amazon.de/gp/bestsellers/computers/430156031/
