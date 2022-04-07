@@ -46,3 +46,4 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
 - https://debianforum.de/forum/viewtopic.php?t=167735
+- https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
