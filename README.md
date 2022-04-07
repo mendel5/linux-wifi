@@ -38,3 +38,6 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://unix.stackexchange.com/questions/692658/how-to-install-driver-archer-t3u-plus-for-linux-20-04-ac1300
 - https://gist.github.com/julianlam/0ce7692ca10fb91970b6693bc02587ce
 - https://linux-hardware.org/?id=usb:2357-012d
+- https://old.reddit.com/r/linux/comments/5p38ry/what_prevents_realtek_wireless_drivers_from_being/
+- https://old.reddit.com/r/linuxhardware/comments/9tsx1m/whats_the_best_driver_for_realtek_wifi_in_linux/
+- https://old.reddit.com/r/linux/comments/38vwbf/the_state_of_wifi_drivers_just_bad_luck/
