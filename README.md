@@ -2,6 +2,10 @@
 How to set up TP-Link USB WiFi adapters on Linux
 
 ## Links
+- https://github.com/morrownr/USB-WiFi <-- very important
+- https://github.com/morrownr/USB-WiFi/blob/main/The_Short_List.md <-- very important
+
+## Links, mainly TP-Link
 - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
 - https://www.amazon.de/dp/B0859M539M/ TP-Link Archer T3U Plus
 - https://www.amazon.de/dp/B0088TKTY2/ TP-Link TL-WN823N
@@ -28,8 +32,6 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://www.computerbase.de/forum/threads/archer-t3u-treiber-auf-linux-mint-19-3-installieren.1927445/
 - https://askubuntu.com/questions/1134101/tp-link-archer-t3u-not-working-in-ubuntu-18-04
 - https://github.com/morrownr/88x2bu
-- https://github.com/morrownr/USB-WiFi <-- very important
-- https://github.com/morrownr/USB-WiFi/blob/main/The_Short_List.md <-- very important
 - https://linustechtips.com/topic/1312520-where-can-i-get-drivers-for-tp-link-archer-t3u-for-linux/
 - https://forums.linuxmint.com/viewtopic.php?t=306556
 - https://www.gutefrage.net/frage/archer-t3u-treiber-auf-linux-mint-installieren
