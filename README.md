@@ -2,8 +2,11 @@
 How to set up TP-Link USB WiFi adapters on Linux
 
 ## Links
-- https://github.com/morrownr/USB-WiFi <-- very important
-- https://github.com/morrownr/USB-WiFi/blob/main/The_Short_List.md <-- very important
+- https://github.com/morrownr/USB-WiFi
+- https://github.com/morrownr/USB-WiFi/blob/main/The_Short_List.md
+- https://github.com/morrownr/USB-WiFi/blob/main/USB_Chipsets.md
+- https://github.com/morrownr/USB-WiFi/blob/main/Kali_Linux_Recommended_Adapters.md
+- https://github.com/morrownr/USB-WiFi/blob/main/Recommended_WiFi_Router_Settings.md
 
 ### Question
 - What about Qualcomm? `The main reason for the limited support is that there are only 2 companies supplying chipsets for USB Wifi adapters - Mediatek and Realtek.`
