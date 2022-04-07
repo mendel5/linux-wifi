@@ -53,6 +53,7 @@ How to set up TP-Link USB WiFi adapters on Linux
 
 ## Other links
 - https://www.amazon.de/gp/bestsellers/computers/430156031/
+- https://forum.openwrt.org/t/what-wifi-5ghz-ac-should-i-look-for-when-shopping-qualcomm-atheros-closed-source-broadcom-is-not-recommend-thx/106553
 
 ## AVM links
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
