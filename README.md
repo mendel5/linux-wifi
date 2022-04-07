@@ -19,3 +19,19 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://geizhals.de/tp-link-archer-t3u-plus-ac1300-archer-t3u-plus-a2291212.html
 - https://wiki.ubuntuusers.de/WLAN/Karten/TP-Link/
 - https://forum.ubuntuusers.de/topic/treiber-fuer-wifi-stick-tp-link-archer-t3u-rtl/
+- https://wiki.ubuntuusers.de/WLAN/Karten/
+- https://forum.ubuntuusers.de/topic/treiber-fuer-wifi-stick-tp-link-archer-t3u-rtl/
+- https://www.club.computerwissen.de/qa/86756-tp-link-archer-t3u-unter-linux
+- https://community.tp-link.com/en/home/forum/topic/248212
+- https://community.tp-link.com/en/home/forum/topic/277278
+- https://community.tp-link.com/en/home/forum/topic/208022
+- https://www.computerbase.de/forum/threads/archer-t3u-treiber-auf-linux-mint-19-3-installieren.1927445/
+- https://askubuntu.com/questions/1134101/tp-link-archer-t3u-not-working-in-ubuntu-18-04
+- https://github.com/morrownr/88x2bu
+- https://github.com/morrownr/USB-WiFi <-- very important
+- https://linustechtips.com/topic/1312520-where-can-i-get-drivers-for-tp-link-archer-t3u-for-linux/
+- https://forums.linuxmint.com/viewtopic.php?t=306556
+- https://www.gutefrage.net/frage/archer-t3u-treiber-auf-linux-mint-installieren
+- https://unix.stackexchange.com/questions/692658/how-to-install-driver-archer-t3u-plus-for-linux-20-04-ac1300
+- https://gist.github.com/julianlam/0ce7692ca10fb91970b6693bc02587ce
+- https://linux-hardware.org/?id=usb:2357-012d
