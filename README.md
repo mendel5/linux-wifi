@@ -1,5 +1,7 @@
 # linux-wifi
-How to set up TP-Link USB WiFi adapters on Linux
+Overview of WiFi USB adapters for Linux
+
+See also: https://github.com/mendel5/linux-bluetooth
 
 ## Important links
 - https://github.com/morrownr/USB-WiFi
