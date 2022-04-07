@@ -5,6 +5,10 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://github.com/morrownr/USB-WiFi <-- very important
 - https://github.com/morrownr/USB-WiFi/blob/main/The_Short_List.md <-- very important
 
+### Question
+- What about Qualcomm?
+- Are `Qualcomm QCA9377-7` and `mt7662u` supported?
+
 ## Links, mainly TP-Link
 - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
 - https://www.amazon.de/dp/B0859M539M/ TP-Link Archer T3U Plus
