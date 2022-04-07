@@ -1,7 +1,7 @@
 # linux-wifi
 How to set up TP-Link USB WiFi adapters on Linux
 
-## Links
+## Important links
 - https://github.com/morrownr/USB-WiFi
 - https://github.com/morrownr/USB-WiFi/blob/main/The_Short_List.md
 - https://github.com/morrownr/USB-WiFi/blob/main/USB_Chipsets.md
@@ -13,7 +13,7 @@ How to set up TP-Link USB WiFi adapters on Linux
 - What about Broadcom?
 - Are `Qualcomm QCA9377-7` and `mt7662u` supported?
 
-## Links, mainly TP-Link
+## TP-Link links
 - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
 - https://www.amazon.de/dp/B0859M539M/ TP-Link Archer T3U Plus
 - https://www.amazon.de/dp/B0088TKTY2/ TP-Link TL-WN823N
@@ -50,16 +50,16 @@ How to set up TP-Link USB WiFi adapters on Linux
 - https://old.reddit.com/r/linuxhardware/comments/9tsx1m/whats_the_best_driver_for_realtek_wifi_in_linux/
 - https://old.reddit.com/r/linux/comments/38vwbf/the_state_of_wifi_drivers_just_bad_luck/
 
-## Links, other
+## Other links
 - https://www.amazon.de/gp/bestsellers/computers/430156031/
 
-## Links, AVM
+## AVM links
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
 - https://debianforum.de/forum/viewtopic.php?t=167735
 - https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
 
-### Info
+### AVM Info
 Chipsets
 - AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: `QCA9377-7`
 - AVM FRITZ!WLAN USB Stick AC 860: `Ralink mt7662u`
