@@ -10,6 +10,7 @@ How to set up TP-Link USB WiFi adapters on Linux
 
 ### Question
 - What about Qualcomm? `The main reason for the limited support is that there are only 2 companies supplying chipsets for USB Wifi adapters - Mediatek and Realtek.`
+- What about Broadcom?
 - Are `Qualcomm QCA9377-7` and `mt7662u` supported?
 
 ## Links, mainly TP-Link
