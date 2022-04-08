@@ -20,21 +20,6 @@ See also: https://github.com/mendel5/linux-bluetooth
 ## TP-Link links
 - https://www.tp-link.com/de/home-networking/all-adapter/?filterby=4884%2C4809
 - https://www.tp-link.com/en/home-networking/all-adapter/?filterby=6093%7C4809%7C4927
-- https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
-- https://www.amazon.de/dp/B0859M539M/ TP-Link Archer T3U Plus
-- https://www.amazon.de/dp/B0088TKTY2/ TP-Link TL-WN823N
-- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Nano
-- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Plus
-- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T3U
-- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T3U_Plus
-- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v1
-- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v2
-- https://deviwiki.com/wiki/TP-LINK_Archer_T3U
-- https://deviwiki.com/wiki/TP-LINK_Archer_T3U_Plus
-- https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U
-- https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U_Plus
-- https://geizhals.de/tp-link-archer-t3u-ac1300-archer-t3u-a2083565.html
-- https://geizhals.de/tp-link-archer-t3u-plus-ac1300-archer-t3u-plus-a2291212.html
 - https://wiki.ubuntuusers.de/WLAN/Karten/TP-Link/
 - https://forum.ubuntuusers.de/topic/treiber-fuer-wifi-stick-tp-link-archer-t3u-rtl/
 - https://wiki.ubuntuusers.de/WLAN/Karten/
@@ -51,7 +36,6 @@ See also: https://github.com/mendel5/linux-bluetooth
 - https://www.gutefrage.net/frage/archer-t3u-treiber-auf-linux-mint-installieren
 - https://unix.stackexchange.com/questions/692658/how-to-install-driver-archer-t3u-plus-for-linux-20-04-ac1300
 - https://gist.github.com/julianlam/0ce7692ca10fb91970b6693bc02587ce
-- https://linux-hardware.org/?id=usb:2357-012d
 - https://old.reddit.com/r/linux/comments/5p38ry/what_prevents_realtek_wireless_drivers_from_being/
 - https://old.reddit.com/r/linuxhardware/comments/9tsx1m/whats_the_best_driver_for_realtek_wifi_in_linux/
 - https://old.reddit.com/r/linux/comments/38vwbf/the_state_of_wifi_drivers_just_bad_luck/
@@ -72,25 +56,40 @@ sudo lsusb
 ```
 
 ## AVM links
-- https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
-- https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
-- https://geizhals.de/avm-fritz-wlan-usb-stick-ac-430-mu-mimo-20002766-a1669615.html
-- https://geizhals.de/avm-fritz-wlan-usb-stick-ac-860-20002687-20002724-a1082383.html
-- https://debianforum.de/forum/viewtopic.php?t=167735
 - https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
 
 ## Chipsets
 - Suche: `"chipset" OR "chipsatz"`
 - AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7`
+  - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
+  - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-430-mu-mimo-20002766-a1669615.html
 - AVM FRITZ!WLAN USB Stick AC 860: Ralink `mt7662u`
+  - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
+  - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-860-20002687-20002724-a1082383.html
+  - https://debianforum.de/forum/viewtopic.php?t=167735
 - TP-Link Archer T2U Nano: Realtek `RTL8811AU`
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Nano
 - TP-Link Archer T2U: Realtek `RTL8811AU`
 - TP-Link Archer T3U: Realtek `RTL8812BU`
+  - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
+  - https://geizhals.de/tp-link-archer-t3u-ac1300-archer-t3u-a2083565.html
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T3U
+  - https://deviwiki.com/wiki/TP-LINK_Archer_T3U
+  - https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U
+  - https://linux-hardware.org/?id=usb:2357-012d
 - TP-Link Archer T3U Plus: Realtek `RTL8812BU`
+  - https://www.amazon.de/dp/B0859M539M/ TP-Link Archer T3U Plus
+  - https://geizhals.de/tp-link-archer-t3u-plus-ac1300-archer-t3u-plus-a2291212.html
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T3U_Plus
+  - https://deviwiki.com/wiki/TP-LINK_Archer_T3U_Plus
+  - https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U_Plus
 - TP-Link TL-WN722N: Atheros `AR9002U`
 - TP-Link TL-WN725N: Realtek `RTL8188EUS`
 - TP-Link TL-WN821N: Realtek `RTL8192EU`
 - TP-Link TL-WN823N: Realtek `RTL8192EU`
+  - https://www.amazon.de/dp/B0088TKTY2/ TP-Link TL-WN823N
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v1
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v2
 - CSL 1: Ralink `RT5572`
   - https://www.amazon.de/dp/B00LLIOT34
 - CSL 2: Realtek `RTL8812BU`
@@ -98,3 +97,8 @@ sudo lsusb
 - CSL 3: Realtek `RTL8812AU`
   - https://www.amazon.de/dp/B01M67XBJ4
 - Netgear A6210: `?`
+
+
+
+- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Plus
+
