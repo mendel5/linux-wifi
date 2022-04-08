@@ -10,7 +10,7 @@ See also: https://github.com/mendel5/linux-bluetooth
 - https://github.com/morrownr/USB-WiFi/blob/main/Kali_Linux_Recommended_Adapters.md
 - https://github.com/morrownr/USB-WiFi/blob/main/Recommended_WiFi_Router_Settings.md
 
-### Question
+### Questions
 - What about Qualcomm? `The main reason for the limited support is that there are only 2 companies supplying chipsets for USB Wifi adapters - Mediatek and Realtek.`
 - What about Broadcom?
 - Are `Qualcomm QCA9377-7` and `mt7662u` supported?
@@ -54,6 +54,9 @@ See also: https://github.com/mendel5/linux-bluetooth
 - https://old.reddit.com/r/linuxhardware/comments/9tsx1m/whats_the_best_driver_for_realtek_wifi_in_linux/
 - https://old.reddit.com/r/linux/comments/38vwbf/the_state_of_wifi_drivers_just_bad_luck/
 - https://old.reddit.com/r/linuxquestions/comments/qbcjn2/are_realtek_and_nvidia_the_only_brands_i_need_to/
+
+### Chipsets
+- TP-Link Archer T3U: `?` (verified by me)
 
 ## Other links
 - https://www.amazon.de/gp/bestsellers/computers/430156031/
