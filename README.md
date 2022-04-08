@@ -70,34 +70,37 @@ sudo lsusb
 - TP-Link Archer T2U Nano: Realtek `RTL8811AU`
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Nano
 - TP-Link Archer T2U: Realtek `RTL8811AU`
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_v3
 - TP-Link Archer T2U Plus: Realtek `RTL8811AU`
-  - https://www.amazon.de/dp/B07P681N66/
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Plus
+  - https://www.amazon.de/dp/B07P681N66/
 - TP-Link Archer T3U: Realtek `RTL8812BU`
-  - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
-  - https://geizhals.de/tp-link-archer-t3u-ac1300-archer-t3u-a2083565.html
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T3U
+  - https://www.amazon.de/dp/B07M69276N
+  - https://geizhals.de/tp-link-archer-t3u-ac1300-archer-t3u-a2083565.html
   - https://deviwiki.com/wiki/TP-LINK_Archer_T3U
   - https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U
   - https://linux-hardware.org/?id=usb:2357-012d
 - TP-Link Archer T3U Plus: Realtek `RTL8812BU`
-  - https://www.amazon.de/dp/B0859M539M/ TP-Link Archer T3U Plus
-  - https://geizhals.de/tp-link-archer-t3u-plus-ac1300-archer-t3u-plus-a2291212.html
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T3U_Plus
+  - https://www.amazon.de/dp/B0859M539M
+  - https://geizhals.de/tp-link-archer-t3u-plus-ac1300-archer-t3u-plus-a2291212.html
   - https://deviwiki.com/wiki/TP-LINK_Archer_T3U_Plus
   - https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U_Plus
 - TP-Link TL-WN722N: Atheros `AR9002U`
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN722N_v3
 - TP-Link TL-WN725N: Realtek `RTL8188EUS`
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN725N_v2
 - TP-Link TL-WN821N: Realtek `RTL8192EU`
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN821N_v6
 - TP-Link TL-WN823N: Realtek `RTL8192EU`
-  - https://www.amazon.de/dp/B0088TKTY2/ TP-Link TL-WN823N
-  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v1
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v2
+  - https://www.amazon.de/dp/B0088TKTY2
+- Netgear A6210: `MT7612U`
+  - http://en.techinfodepot.shoutwiki.com/wiki/Netgear_A6210
 - CSL 1: Ralink `RT5572`
   - https://www.amazon.de/dp/B00LLIOT34
 - CSL 2: Realtek `RTL8812BU`
   - https://www.amazon.de/dp/B07KS66YBF
 - CSL 3: Realtek `RTL8812AU`
   - https://www.amazon.de/dp/B01M67XBJ4
-- Netgear A6210: `MT7612U`
-  - http://en.techinfodepot.shoutwiki.com/wiki/Netgear_A6210
