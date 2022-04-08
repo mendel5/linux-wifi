@@ -60,10 +60,10 @@ sudo lsusb
 
 ## Chipsets
 - Suche: `"chipset" OR "chipsatz"`
-- AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7`
+- AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7` zquestion
   - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
   - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-430-mu-mimo-20002766-a1669615.html
-- AVM FRITZ!WLAN USB Stick AC 860: Mediatek Ralink `MT7662U`
+- AVM FRITZ!WLAN USB Stick AC 860: Mediatek Ralink `MT7662U` zquestion
   - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
   - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-860-20002687-20002724-a1082383.html
   - https://debianforum.de/forum/viewtopic.php?t=167735
@@ -87,13 +87,13 @@ sudo lsusb
   - https://geizhals.de/tp-link-archer-t3u-plus-ac1300-archer-t3u-plus-a2291212.html
   - https://deviwiki.com/wiki/TP-LINK_Archer_T3U_Plus
   - https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U_Plus
-- TP-Link TL-WN722N: Realtek `RTL8188EUS`
+- TP-Link TL-WN722N: Realtek `RTL8188EUS` zquestion
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN722N_v3
-- TP-Link TL-WN725N: Realtek `RTL8188EUS`
+- TP-Link TL-WN725N: Realtek `RTL8188EUS` zquestion
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN725N_v2
-- TP-Link TL-WN821N: Realtek `RTL8192EU`
+- TP-Link TL-WN821N: Realtek `RTL8192EU` zquestion
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN821N_v6
-- TP-Link TL-WN823N: Realtek `RTL8192EU`
+- TP-Link TL-WN823N: Realtek `RTL8192EU` zquestion
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v2
   - https://www.amazon.de/dp/B0088TKTY2
 - Netgear A6210: Mediatek Ralink `MT7612U`
