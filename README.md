@@ -15,6 +15,7 @@ See also: https://github.com/mendel5/linux-bluetooth
 - What about Broadcom?
 - Are `Qualcomm QCA9377-7` and `mt7662u` supported?
 - Is TP-LINK TL-WN823N v2 with `RTL8192EU` supported? (compared to v1 with `RTL8192CU`)
+- Letztendlich alle Geräte von Amazon.de testen (Suche und Topseller)
 
 ## TP-Link links
 - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
