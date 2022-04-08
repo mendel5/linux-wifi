@@ -104,3 +104,5 @@ sudo lsusb
   - https://www.amazon.de/dp/B07KS66YBF
 - CSL 3: Realtek `RTL8812AU`
   - https://www.amazon.de/dp/B01M67XBJ4
+
+`zquestion` regarding https://github.com/morrownr/USB-WiFi/blob/main/USB_Chipsets.md
