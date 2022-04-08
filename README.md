@@ -91,7 +91,8 @@ sudo lsusb
 - TP-Link TL-WN725N: Realtek `RTL8188EUS`
 - TP-Link TL-WN821N: Realtek `RTL8192EU`
 - TP-Link TL-WN823N: Realtek `RTL8192EU`
-- CSL 1: Ralink `RT5572`, https://www.amazon.de/dp/B00LLIOT34
+- CSL 1: Ralink `RT5572`
+  - https://www.amazon.de/dp/B00LLIOT34
 - CSL 2: Realtek `RTL8812BU`
   - https://www.amazon.de/dp/B07KS66YBF
 - CSL 3: Realtek `RTL8812AU`
