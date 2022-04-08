@@ -80,9 +80,10 @@ sudo lsusb
 - https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
 
 ## Chipsets
-- AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: `QCA9377-7`
-- AVM FRITZ!WLAN USB Stick AC 860: `Ralink mt7662u`
-- TP-Link Archer T2U Nano
+- AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7`
+- AVM FRITZ!WLAN USB Stick AC 860: Ralink `mt7662u`
+- TP-Link Archer T2U Nano: `?`
+- TP-Link Archer T2U: `?`
 - TP-Link Archer T3U: `?` (verified by me)
 - TP-Link Archer T3U Plus: `?`
 - TP-Link TL-WN725N: `?`
