@@ -88,3 +88,4 @@ sudo lsusb
 - TP-Link Archer T3U Plus: `?`
 - TP-Link TL-WN725N: `?`
 - TP-Link TL-WN823N: `?`
+- CSL: Ralink `RT5572`, https://www.amazon.de/dp/B00LLIOT34/
