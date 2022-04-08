@@ -63,7 +63,7 @@ sudo lsusb
 - AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7`
   - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
   - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-430-mu-mimo-20002766-a1669615.html
-- AVM FRITZ!WLAN USB Stick AC 860: Ralink `MT7662U`
+- AVM FRITZ!WLAN USB Stick AC 860: Mediatek Ralink `MT7662U`
   - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
   - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-860-20002687-20002724-a1082383.html
   - https://debianforum.de/forum/viewtopic.php?t=167735
@@ -96,9 +96,9 @@ sudo lsusb
 - TP-Link TL-WN823N: Realtek `RTL8192EU`
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN823N_v2
   - https://www.amazon.de/dp/B0088TKTY2
-- Netgear A6210: `MT7612U`
+- Netgear A6210: Mediatek Ralink `MT7612U`
   - http://en.techinfodepot.shoutwiki.com/wiki/Netgear_A6210
-- CSL 1: Ralink `RT5572`
+- CSL 1: Mediatek Ralink `RT5572`
   - https://www.amazon.de/dp/B00LLIOT34
 - CSL 2: Realtek `RTL8812BU`
   - https://www.amazon.de/dp/B07KS66YBF
