@@ -57,9 +57,6 @@ See also: https://github.com/mendel5/linux-bluetooth
 - https://old.reddit.com/r/linux/comments/38vwbf/the_state_of_wifi_drivers_just_bad_luck/
 - https://old.reddit.com/r/linuxquestions/comments/qbcjn2/are_realtek_and_nvidia_the_only_brands_i_need_to/
 
-### Chipsets
-- TP-Link Archer T3U: `?` (verified by me)
-
 ## Other links
 - https://www.amazon.de/gp/bestsellers/computers/430156031/
 - https://forum.openwrt.org/t/what-wifi-5ghz-ac-should-i-look-for-when-shopping-qualcomm-atheros-closed-source-broadcom-is-not-recommend-thx/106553
@@ -82,7 +79,11 @@ sudo lsusb
 - https://debianforum.de/forum/viewtopic.php?t=167735
 - https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
 
-### AVM Info
-Chipsets
+## Chipsets
 - AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: `QCA9377-7`
 - AVM FRITZ!WLAN USB Stick AC 860: `Ralink mt7662u`
+- TP-Link Archer T2U Nano
+- TP-Link Archer T3U: `?` (verified by me)
+- TP-Link Archer T3U Plus: `?`
+- TP-Link TL-WN725N: `?`
+- TP-Link TL-WN823N: `?`
