@@ -18,11 +18,11 @@ See also: https://github.com/mendel5/linux-bluetooth
 - Letztendlich alle Geräte von Amazon.de testen (Suche und Topseller)
 
 ## TP-Link links
+- https://www.tp-link.com/de/home-networking/all-adapter/?filterby=4884%2C4809
+- https://www.tp-link.com/en/home-networking/all-adapter/?filterby=6093%7C4809%7C4927
 - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
 - https://www.amazon.de/dp/B0859M539M/ TP-Link Archer T3U Plus
 - https://www.amazon.de/dp/B0088TKTY2/ TP-Link TL-WN823N
-- https://www.tp-link.com/de/home-networking/all-adapter/?filterby=4884%2C4809
-- https://www.tp-link.com/en/home-networking/all-adapter/?filterby=6093%7C4809%7C4927
 - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Nano
 - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Plus
 - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T3U
