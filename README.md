@@ -63,14 +63,14 @@ sudo lsusb
 - AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7`
   - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
   - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-430-mu-mimo-20002766-a1669615.html
-- AVM FRITZ!WLAN USB Stick AC 860: Ralink `mt7662u`
+- AVM FRITZ!WLAN USB Stick AC 860: Ralink `MT7662U`
   - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
   - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-860-20002687-20002724-a1082383.html
   - https://debianforum.de/forum/viewtopic.php?t=167735
 - TP-Link Archer T2U Nano: Realtek `RTL8811AU`
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Nano
 - TP-Link Archer T2U: Realtek `RTL8811AU`
-- TP-Link Archer T2U Plus: `?`
+- TP-Link Archer T2U Plus: Realtek `RTL8811AU`
   - https://www.amazon.de/dp/B07P681N66/
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Plus
 - TP-Link Archer T3U: Realtek `RTL8812BU`
@@ -99,4 +99,5 @@ sudo lsusb
   - https://www.amazon.de/dp/B07KS66YBF
 - CSL 3: Realtek `RTL8812AU`
   - https://www.amazon.de/dp/B01M67XBJ4
-- Netgear A6210: `?`
+- Netgear A6210: `MT7612U`
+  - http://en.techinfodepot.shoutwiki.com/wiki/Netgear_A6210
