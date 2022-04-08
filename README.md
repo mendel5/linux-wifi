@@ -70,6 +70,9 @@ sudo lsusb
 - TP-Link Archer T2U Nano: Realtek `RTL8811AU`
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Nano
 - TP-Link Archer T2U: Realtek `RTL8811AU`
+- TP-Link Archer T2U Plus: `?`
+  - https://www.amazon.de/dp/B07P681N66/
+  - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Plus
 - TP-Link Archer T3U: Realtek `RTL8812BU`
   - https://www.amazon.de/dp/B07M69276N/ TP-Link Archer T3U
   - https://geizhals.de/tp-link-archer-t3u-ac1300-archer-t3u-a2083565.html
@@ -97,8 +100,3 @@ sudo lsusb
 - CSL 3: Realtek `RTL8812AU`
   - https://www.amazon.de/dp/B01M67XBJ4
 - Netgear A6210: `?`
-
-
-
-- http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Plus
-
