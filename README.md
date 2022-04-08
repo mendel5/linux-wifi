@@ -87,7 +87,7 @@ sudo lsusb
   - https://geizhals.de/tp-link-archer-t3u-plus-ac1300-archer-t3u-plus-a2291212.html
   - https://deviwiki.com/wiki/TP-LINK_Archer_T3U_Plus
   - https://wikidevi.wi-cat.ru/TP-LINK_Archer_T3U_Plus
-- TP-Link TL-WN722N: Atheros `AR9002U`
+- TP-Link TL-WN722N: Realtek `RTL8188EUS`
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN722N_v3
 - TP-Link TL-WN725N: Realtek `RTL8188EUS`
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_TL-WN725N_v2
