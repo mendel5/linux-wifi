@@ -68,6 +68,10 @@ sudo lshw -C network
 Source:
 - https://askubuntu.com/questions/333424/how-can-i-check-the-information-of-currently-installed-wifi-drivers
 
+```
+sudo lsusb
+```
+
 ## AVM links
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-430-mu-mimo/
 - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
