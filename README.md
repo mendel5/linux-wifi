@@ -93,4 +93,4 @@ sudo lsusb
 - CSL 1: Ralink `RT5572`, https://www.amazon.de/dp/B00LLIOT34
 - CSL 2: `RTL8812BU`, https://www.amazon.de/dp/B07KS66YBF
 - CSL 3: `RTL8812AU`, https://www.amazon.de/dp/B01M67XBJ4
-
+- Netgear A6210: `?`
