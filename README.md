@@ -80,7 +80,7 @@ sudo lsusb
 - https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
 
 ## Chipsets
-- Suche: `"chipsatz" OR "chipset"`
+- Suche: `"chipset" OR "chipsatz"`
 - AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7`
 - AVM FRITZ!WLAN USB Stick AC 860: Ralink `mt7662u`
 - TP-Link Archer T2U Nano: `?`
