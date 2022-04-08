@@ -83,14 +83,14 @@ sudo lsusb
 - Suche: `"chipset" OR "chipsatz"`
 - AVM FRITZ!WLAN USB Stick AC 430 MU-MIMO: Qualcomm `QCA9377-7`
 - AVM FRITZ!WLAN USB Stick AC 860: Ralink `mt7662u`
-- TP-Link Archer T2U Nano: `?`
-- TP-Link Archer T2U: `?`
-- TP-Link Archer T3U: `?` (verified by me)
-- TP-Link Archer T3U Plus: `?`
-- TP-Link TL-WN722N: `?`
-- TP-Link TL-WN725N: `?`
-- TP-Link TL-WN821N: `?`
-- TP-Link TL-WN823N: `?`
+- TP-Link Archer T2U Nano: `Realtek RTL8811AU`
+- TP-Link Archer T2U: Realtek `RTL8811AU`
+- TP-Link Archer T3U: Realtek `RTL8812BU`
+- TP-Link Archer T3U Plus: Realtek `RTL8812BU`
+- TP-Link TL-WN722N: Atheros `AR9002U`
+- TP-Link TL-WN725N: Realtek `RTL8188EUS`
+- TP-Link TL-WN821N: Realtek `RTL8192EU`
+- TP-Link TL-WN823N: Realtek `RTL8192EU`
 - CSL 1: Ralink `RT5572`, https://www.amazon.de/dp/B00LLIOT34
 - CSL 2: `RTL8812BU`, https://www.amazon.de/dp/B07KS66YBF
 - CSL 3: `RTL8812AU`, https://www.amazon.de/dp/B01M67XBJ4
