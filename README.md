@@ -46,15 +46,16 @@ See also: https://github.com/mendel5/linux-bluetooth
 - https://www.amazon.de/gp/bestsellers/computers/430156031/
 - https://forum.openwrt.org/t/what-wifi-5ghz-ac-should-i-look-for-when-shopping-qualcomm-atheros-closed-source-broadcom-is-not-recommend-thx/106553
 
+## Commands
+```
+sudo lsusb
+```
+
 ```
 sudo lshw -C network
 ```
 Source:
 - https://askubuntu.com/questions/333424/how-can-i-check-the-information-of-currently-installed-wifi-drivers
-
-```
-sudo lsusb
-```
 
 ## AVM links
 - https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
