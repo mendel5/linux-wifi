@@ -52,7 +52,7 @@ sudo lsusb
 ```
 
 ```
-sudo lshw -C network
+sudo lshw -c network
 ```
 Source:
 - https://askubuntu.com/questions/333424/how-can-i-check-the-information-of-currently-installed-wifi-drivers
