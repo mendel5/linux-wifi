@@ -69,6 +69,7 @@ Source:
   - https://avm.de/produkte/fritzwlan/fritzwlan-stick-ac-860/
   - https://geizhals.de/avm-fritz-wlan-usb-stick-ac-860-20002687-20002724-a1082383.html
   - https://debianforum.de/forum/viewtopic.php?t=167735
+  - https://github.com/morrownr/USB-WiFi/issues/121
 - TP-Link Archer T2U Nano: Realtek `RTL8811AU`
   - http://en.techinfodepot.shoutwiki.com/wiki/TP-LINK_Archer_T2U_Nano
 - TP-Link Archer T2U: Realtek `RTL8811AU`
