@@ -14,7 +14,7 @@ See also: https://github.com/mendel5/linux-bluetooth
 - What about Qualcomm? `The main reason for the limited support is that there are only 2 companies supplying chipsets for USB Wifi adapters - Mediatek and Realtek.`
 - What about Broadcom?
 - Are `Qualcomm QCA9377-7` and `mt7662u` supported?
-- Is TP-LINK TL-WN823N v2 with `RTL8192EU` supported? (compared to v1 with `RTL8192CU`)
+- Is TP-LINK TL-WN823N v2 with `RTL8192EU` supported? (compared to v1 with `RTL8192CU`) --> Yes, seems to be the case. See https://wiki.openthinclient.org/omd20202/knowledge-base/unterstuetzte-wlan-sticks
 - Why is Realtek `RTL8192cu` the only chipset with a Linux In-Kernel driver?
 - Letztendlich alle Geräte von Amazon.de testen (Suche und Topseller)
 
