@@ -57,6 +57,12 @@ sudo lshw -c network
 Source:
 - https://askubuntu.com/questions/333424/how-can-i-check-the-information-of-currently-installed-wifi-drivers
 
+```
+nmcli device wifi list
+```
+Source:
+- https://askubuntu.com/questions/204936/how-to-detect-security-mode-of-wifi-access-point-wep-wpa-wpa2
+
 ## AVM links
 - https://wiki.ubuntuusers.de/WLAN/Karten/AVM/
 
